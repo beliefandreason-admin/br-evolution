@@ -3,7 +3,7 @@
 Testing br-creation module
 
 .Do not forget!
-[Important]
+[CAUTION]
 ====
 This is a notice about a specific scientific assumption!
 ====
